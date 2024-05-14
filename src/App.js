@@ -12,7 +12,27 @@ function App() {
         <main>
           <Dictionary defaultKeyword="earth" />
         </main>
-        <footer className="text-center">Coded by Lucie Quantová</footer>
+        <footer className="text-center">
+          {" "}
+          <p>
+            This project was coded by{" "}
+            <a
+              href="https://github.com/luciequant"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Lucie Quantová
+            </a>{" "}
+            and is open-sourced on{" "}
+            <a
+              href="https://github.com/luciequant/dictionary-react-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>{" "}
+          </p>
+        </footer>
       </div>
     </div>
   );

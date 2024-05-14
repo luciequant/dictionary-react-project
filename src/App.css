@@ -20,5 +20,9 @@ body {
 .App footer {
   margin: 30px;
   font-size: 14px;
+  color: rgb(92, 97, 101);
+}
+.App a {
   color: rgb(102, 138, 169);
+  text-decoration: none;
 }
