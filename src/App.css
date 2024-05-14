@@ -1,12 +1,24 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(204, 228, 247) 11.2%,
+    rgb(237, 246, 250) 100.2%
+  );
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 .App {
-  margin: 40px;
+  max-width: 960px;
+  margin: 40px auto;
 }
 .App h1 {
   font-size: 40px;
   font-weight: bold;
+  color: rgb(129, 173, 212);
 }
 .App footer {
   margin: 30px;
   font-size: 14px;
-  opacity: 0.8;
+  color: rgb(102, 138, 169);
 }

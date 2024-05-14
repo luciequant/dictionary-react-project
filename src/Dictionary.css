@@ -2,3 +2,27 @@
   margin: 30px;
   text-align: center;
 }
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: rgba(52, 90, 130, 0.16) 0px 3px 6px, #5181c43b 0px 3px 6px;
+}
+.Dictionary h2 {
+  font-size: 22px;
+  margin: 20px 0;
+}
+.Dictionary input {
+  width: 100%;
+  border-radius: 4px;
+  padding: 6px 10px;
+  border: 1px solid #8aabc8;
+  font-size: 18px;
+}
+.Dictionary .hint {
+  text-align: left;
+  font-size: 12px;
+  margin: 4px;
+  opacity: 0.8;
+}

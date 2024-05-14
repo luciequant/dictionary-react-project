@@ -10,7 +10,7 @@ function App() {
           <h1 className="text-center">Dictionary</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="earth" />
         </main>
         <footer className="text-center">Coded by Lucie Quantová</footer>
       </div>
