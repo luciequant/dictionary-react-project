@@ -1,7 +1,12 @@
-.App-header {
+.App {
   margin: 40px;
 }
 .App h1 {
   font-size: 40px;
   font-weight: bold;
+}
+.App footer {
+  margin: 30px;
+  font-size: 14px;
+  opacity: 0.8;
 }
